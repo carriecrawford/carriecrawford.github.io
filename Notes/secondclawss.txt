@@ -1,0 +1,32 @@
+Padding
+
+4px 	6px 	4px 	6px;
+
+Top 	Right 	Bottom 	Left
+
+padding-left
+
+padding: 4px 6px;  (shorthand for padding line above)
+
+Serif = has the feet on the bottom of letters
+
+Color Tool: 
+https://material.io/color/#!/?view.left=0&view.right=0
+And:
+http://www.0to255.com/
+
+
+fonts.google.com
+roboto is popular right now
+
+
+Backlinko
+Brian Dean - YouTube channel
+
+Moz
+check website for Friday videos - tips and tricks for SEO.
+
+NeilPatel.com
+
+Rishi
+Tumeric & Ginger

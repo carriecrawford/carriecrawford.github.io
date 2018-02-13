@@ -1,0 +1,19 @@
+HTML Document Structure - standard structure for search engines.
+
+<body>
+   <header>
+	</header>
+		<nav>
+		</nav>
+	<main> (browsers like main tags)
+	   <article>
+	   </article>
+	</main>
+   <footer>
+   </footer>
+</body>
+
+
+
+
+DivTag - everything in a nice little box.    
